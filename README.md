@@ -1,4 +1,4 @@
-# TRUSPA_codes
+# USPA_codes
 
 Installation/Operation Manual for Combined Ultrasound/Photoacoustic Imaging Simulations using NIRFAST and kWave MATLAB toolboxes
 
